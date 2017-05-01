@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\code\cdt 280(a. tum)\week6\boardgame\boardgame\main.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\code\cdt 280(a. tum)\week6\boardgame\boardgame\board.h(152): warning C4715: 'Board::getPlayer': not all control paths return a value
+c:\code\cdt 280(a. tum)\week6\boardgame\boardgame\board.h(116): warning C4715: 'Board::getPlayerX': not all control paths return a value
+c:\code\cdt 280(a. tum)\week6\boardgame\boardgame\board.h(130): warning C4715: 'Board::getPlayerY': not all control paths return a value
+  BoardGame.vcxproj -> C:\code\CDT 280(A. Tum)\week6\BoardGame\Debug\BoardGame.exe
+  BoardGame.vcxproj -> C:\code\CDT 280(A. Tum)\week6\BoardGame\Debug\BoardGame.pdb (Partial PDB)
